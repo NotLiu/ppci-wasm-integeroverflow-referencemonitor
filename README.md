@@ -2,11 +2,13 @@
 
 WASM python reference monitor solution for integer overflow / underflow
 
-create virtualenv sandbox (creates sandbox venv if doesnt exist)
-run ./sandbox/scripts/activate (enters virtual environment 'sandbox')
+enter project root directory
 
-run commands in sandbox:
-pip install ppci
-ppci-build -h
-
-then just run the python program from there 'python main.py'
+create virtualenv sandbox (creates sandbox venv if doesnt exist) <br />
+run ./sandbox/scripts/activate (enters virtual environment 'sandbox') <br />
+<br />
+run commands in sandbox: <br />
+pip install ppci <br />
+ppci-build -h <br />
+<br />
+then just run the python program from there 'python main.py' <br />
